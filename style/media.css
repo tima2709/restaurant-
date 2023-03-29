@@ -1,0 +1,71 @@
+@media (max-width: 1024px) {
+    .container {
+        max-width: 980px;
+    }
+    .container-1 {
+        max-width: 980px;
+    }
+
+    .header-all {
+        padding: 60px 10px;
+    }
+
+    .nav-bar a:not(:last-child) {
+        margin-right: 10px;
+    }
+
+    .restaurant1 {
+        height: 340px;
+    }
+
+    .text-wrapper {
+        padding: 10px 10px;
+        bottom: -235px;
+    }
+    .border-box-1 {
+        padding: 0;
+    }
+
+    .text-wrapper h3 {
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 30px;
+        margin-bottom: 0px;
+    }
+
+    .learn-section {
+        height: 220px;        
+    }
+
+    .learn-for-more {
+        padding-top: 40px;
+    }
+
+    .learn-for-more h2 {
+        padding-bottom: 20px;
+    }
+    .grid-container {
+        padding: 60px 10px;
+
+    }
+
+    .grid-item3 {
+        padding: 0 5px;
+    }
+
+    .letter-form {
+        min-height: 220px;
+        width: 450px;
+    }
+
+    .section-footer {
+        padding: 60px 0;
+    }
+
+    .col-2 {
+        width: 25%;
+    }
+    .last-pic {
+        display: none;
+    }
+}
